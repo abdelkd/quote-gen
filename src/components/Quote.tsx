@@ -25,12 +25,12 @@ export default function Quote() {
       </div>
       <div className='component__quote-text'>
         <p>{quote ? quote.content : "Getting it 🚀"}</p>
-        <img src={PatternDevider} />
+        <img src={PatternDevider} alt="vertical line as devider"/>
       </div>
       <div 
         className='component__icon-dice'
         onClick={generateQuote}>
-        <img src={IconDice} />
+        <img src={IconDice} alt="dice icon"/>
       </div>
     </main>
   )

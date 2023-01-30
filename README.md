@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
+- Solution URL: [Github](https//github.com/abdelkd/quote-gen)
 - Live Site URL: [Netlify](https://regal-gumdrop-a33992.netlify.app/)
 
 ## My process

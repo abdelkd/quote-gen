@@ -41,9 +41,6 @@ body {
     font-size: 28px;
     text-align: center;
     color: $primary--light-cyan;
-    & span {
-      margin: .2em 0;
-    }
   }
 
 
@@ -73,8 +70,9 @@ body {
     &__quote-text {
       padding: 0em .5em;
 
-      & p {
+      & h1 {
         margin-bottom: .4em;
+        font-size: 28px;
       }
     }
     

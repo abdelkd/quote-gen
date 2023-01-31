@@ -24,7 +24,7 @@ export default function Quote() {
         <span>Advice #112</span>
       </div>
       <div className='component__quote-text'>
-        <p>{quote ? quote.content : "Getting it 🚀"}</p>
+        <h1>{quote ? quote.content : "Getting it 🚀"}</h1>
         <img src={PatternDevider} alt="vertical line as devider"/>
       </div>
       <div 
